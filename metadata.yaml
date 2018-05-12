@@ -1,0 +1,41 @@
+_repo: La-Botistoj_28968
+_version: 0.1.0
+alternative_title: Nummisuutarit. Esperanto
+contributor:
+  translator:
+    agent_name: Hall, Hilma
+    gutenberg_agent_id: '33615'
+    url: http://www.gutenberg.org/2009/agents/33615
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kivi, Aleksis
+    aliases:
+    - Stenvall, Aleksis
+    - Kivi, Alexis
+    - Kiwi, Aleksis
+    birthdate: 1834
+    deathdate: 1872
+    gutenberg_agent_id: '3865'
+    url: http://www.gutenberg.org/2009/agents/3865
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Aleksis_Kivi
+    - http://fi.wikipedia.org/wiki/Aleksis_Kivi
+description: ''
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2009-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28968'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Finna Biblioteko Esperanta, no. 2
+subjects:
+- !lcc 'PH'
+- !lcsh 'Drama'
+title: La Botistoj
+url: http://www.gutenberg.org/ebooks/28968
