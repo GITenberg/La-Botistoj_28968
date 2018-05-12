@@ -24,6 +24,8 @@ creator:
     - http://en.wikipedia.org/wiki/Aleksis_Kivi
     - http://fi.wikipedia.org/wiki/Aleksis_Kivi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28968#La-Botistoj
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2009-05-25'
 gutenberg_type: Text
